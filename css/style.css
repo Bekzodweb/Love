@@ -29,7 +29,7 @@ html, body {
 	line-height: 22px;
 	text-shadow: 0px 2px 9px red;
 }
-.love-button {
+.love-link {
 	outline: none;
 	border: none;
 	padding: 15px 25px;
@@ -41,7 +41,7 @@ html, body {
 	cursor: pointer;
 	text-align: center;
 }
-.love-button:hover {
+.love-link:hover {
 	background-color: red;
 }
 .love-button:active  {
